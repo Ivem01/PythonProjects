@@ -9,7 +9,6 @@ Features:
 - Data Manipulation: Uses Pandas library to process and clean the dataset
 - Data Visualization: Uses Matplotlib library to generate histograms, bar charts and pie charts to reveal the different distributions in the data set
 
-Preview:
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/5f9d97fd-b1f5-47d1-8128-ca13aa44be82" />
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/ee3d67d7-390f-431b-95bb-ff2142e3d5bc" />
 <img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/cd34578b-c495-4f24-a14f-8e73895508f0" />
@@ -25,7 +24,6 @@ Features:
 - Status Filtering: Ability to filter tasks based on the statuses: Done and Pending, for better organization
 - Error Handling: Basic error handling to ensure correct user input
 
-Preview:
 <img width="475" height="481" alt="image" src="https://github.com/user-attachments/assets/8cd1f74d-c14c-4d63-8930-a83aa17c86bf" />
 <img width="500" height="663" alt="image" src="https://github.com/user-attachments/assets/dd22d27d-61b2-43ed-9875-5fe38df1983d" />
 
@@ -39,5 +37,4 @@ Features:
 - Data conversion: Processes the raw JSON data into Metric units like Celsius
 - Error Handling: Basic error handing to tell the users if the city is not found
 
-Preview:
 <img width="568" height="706" alt="image" src="https://github.com/user-attachments/assets/183de2c2-0e7f-418c-8f24-d15b2175feab" />
