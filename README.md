@@ -11,7 +11,7 @@ Features:
 
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/5f9d97fd-b1f5-47d1-8128-ca13aa44be82" />
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/ee3d67d7-390f-431b-95bb-ff2142e3d5bc" />
-<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/cd34578b-c495-4f24-a14f-8e73895508f0" />
+<img width="1470" height="883" alt="Figure_4" src="https://github.com/user-attachments/assets/c4ad31fa-dc12-42c5-bf45-b4edd3054883" />
 
 # 2. CLI App For To-Do List
    
