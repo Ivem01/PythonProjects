@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def load_data():
-    data = pd.read_csv("music-analysis/spotify-tracks-dataset.csv")
+    data = pd.read_csv("spotify-tracks-dataset.csv")
 
     data = data.drop(columns=["Unnamed: 0", "Unnamed: 0.1"])
 
