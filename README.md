@@ -38,3 +38,18 @@ Features:
 - Error Handling: Basic error handing to tell the users if the city is not found
 
 <img width="568" height="706" alt="image" src="https://github.com/user-attachments/assets/183de2c2-0e7f-418c-8f24-d15b2175feab" />
+
+# 4. Food Prices in Myanmar Dashboard
+
+An interactive and simple dashboard about food prices in Myanmar based on the dataset by World Food Programme and built with Streamlit, uses Matplotlib and Pandas to visualizes and handle the data.
+
+Features:
+- Financial Analysis: Calculates the price of the prouducts over the years, compares with other regions and calculates the percentage change between the latest price and previous price
+- Filtering Options: Ability to filter commodity, region and choose the currency (MMK or USD) to view the specific results
+- Geographic Location: Visualizes the market locations in the filtered regions using the coordinates
+- Data visualization: Uses Matplotlib and Pandas libraries to process the data and to plot the average prices over the years to show the price trend
+
+<img width="975" height="616" alt="image" src="https://github.com/user-attachments/assets/3d33249f-5573-4260-844b-6c56ce3f3e8f" />
+<img width="1428" height="811" alt="image" src="https://github.com/user-attachments/assets/e8ac943f-d7f6-46c4-ab0f-82fb87c8dfaa" />
+<img width="1389" height="797" alt="Screenshot 2026-03-23 at 17 07 22" src="https://github.com/user-attachments/assets/fe526c6b-6098-4542-94c3-d629547667dd" />
+
